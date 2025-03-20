@@ -2,7 +2,7 @@ SAMUEL RESOLUSI
 - Konsisten untuk terus belajar & explore tentang bahasa pemrograman selama libur semester, diluar itu belajar di malam hari sampai minimal jam 2 pagi.
 - Membuat berbagai sistem berbasis web yang berfokus kepada bisnis atau perusahaan.
 - Membuat sistem yang update dan bisa mengotomisasikan segala tugas / pekerjaan manusia yang efektif dan efisien.
-- Menguasai Cyber Security serta bisa melakukan Hacking.
+- Menguasai Cyber Security serta bisa melakukan Ethical Hacking.
 - Menjadi seorang Full Stack Programming and Full Stack Developer.
 - Kolaborasi dengan lebih banyak expert.
 - Menambah relasi.
